@@ -1,0 +1,4 @@
+elif in python is equal to the famous "else if" in the language C
+
+declaration of functions: def
+
